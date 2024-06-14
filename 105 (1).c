@@ -3,11 +3,11 @@
 #include <string.h>
 void mc()
 {
-    printf("login.......................1\n");
-    printf("Convert The Unit in Rupee$..2\n");
-    printf("Add New Connection..........3\n");
-    printf("Check you Pending Bill......4\n");
-    printf("Pay You Bill................5\n");
+    // printf("login.......................1\n");
+    // printf("Convert The Unit in Rupee$..2\n");
+    // printf("Add New Connection..........3\n");
+    // printf("Check you Pending Bill......4\n");
+    // printf("Pay You Bill................5\n");
 }
 void lg()
 {
